@@ -1,3 +1,7 @@
+Mini project
+
+
+
 - 👋 Hi, I’m @Oviyapurushothaman
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
